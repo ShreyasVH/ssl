@@ -1,0 +1,16 @@
+authorityKeyIdentifier=keyid,issuer
+basicConstraints=CA:FALSE
+keyUsage = digitalSignature, nonRepudiation, keyEncipherment, dataEncipherment
+subjectAltName = @alt_names
+
+[alt_names]
+DNS.1 = localhost
+DNS.2 = host.docker.internal
+DNS.3 = *.react.com
+DNS.4 = *.vue.com
+DNS.5 = *.play.com
+DNS.6 = *.springboot.com
+DNS.7 = *.php.com
+DNS.8 = *.everwell.org
+DNS.9 = *.nikshay.in
+DNS.10 = *.phalcon.com
