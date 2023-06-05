@@ -6,11 +6,20 @@ subjectAltName = @alt_names
 [alt_names]
 DNS.1 = localhost
 DNS.2 = host.docker.internal
-DNS.3 = *.react.com
-DNS.4 = *.vue.com
-DNS.5 = *.play.com
-DNS.6 = *.springboot.com
-DNS.7 = *.php.com
-DNS.8 = *.everwell.org
-DNS.9 = *.nikshay.in
-DNS.10 = *.phalcon.com
+DNS.3 = *.everwell.org
+DNS.4 = *.nikshay.in
+DNS.5 = *.local.everwell.org
+DNS.6 = *.local.nikshay.in
+
+DNS.101 = *.php.com
+
+DNS.201 = *.playframework.com
+DNS.202 = *.springboot.com
+DNS.203 = *.phalcon.com
+DNS.204 = *.express.com
+DNS.205 = *.dotnet.com
+DNS.206 = *.dotnetcore.com
+
+DNS.301 = *.react.com
+DNS.302 = *.vue.com
+DNS.303 = *.angular.com
