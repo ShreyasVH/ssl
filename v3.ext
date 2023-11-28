@@ -23,3 +23,10 @@ DNS.206 = *.dotnetcore.com
 DNS.301 = *.react.com
 DNS.302 = *.vue.com
 DNS.303 = *.angular.com
+DNS.304 = *.sveltekit.com
+DNS.305 = *.solid.com
+
+DNS.401 = *.local.quikr.com
+DNS.402 = *.quikr.com
+DNS.403 = *.kuikr.com
+DNS.404 = *.local.com
