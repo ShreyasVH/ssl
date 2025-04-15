@@ -19,6 +19,7 @@ DNS.203 = *.phalcon.com
 DNS.204 = *.express.com
 DNS.205 = *.dotnet.com
 DNS.206 = *.dotnetcore.com
+DNS.207 = *.django.com
 
 DNS.301 = *.react.com
 DNS.302 = *.vue.com
