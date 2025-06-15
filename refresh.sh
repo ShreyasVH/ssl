@@ -4,3 +4,5 @@ touch server.pem
 cat server.crt >> server.pem
 echo "" >> server.pem
 cat server.key >> server.pem
+
+openssl pkcs12 -export -in server.crt -inkey server.key -out server.p12 -name "dev-server" -certfile rootCA.crt
