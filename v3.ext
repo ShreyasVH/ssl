@@ -20,7 +20,7 @@ DNS.204 = *.express.com
 DNS.205 = *.dotnet.com
 DNS.206 = *.dotnetcore.com
 DNS.207 = *.django.com
-DNS.207 = *.flask.com
+DNS.208 = *.flask.com
 
 DNS.301 = *.react.com
 DNS.302 = *.vue.com
@@ -33,3 +33,7 @@ DNS.401 = *.local.quikr.com
 DNS.402 = *.quikr.com
 DNS.403 = *.kuikr.com
 DNS.404 = *.local.com
+
+DNS.501 = repo.maven.apache.org
+DNS.502 = github.com
+DNS.503 = registry.npmjs.org
