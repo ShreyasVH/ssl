@@ -38,3 +38,4 @@ DNS.501 = repo.maven.apache.org
 DNS.502 = github.com
 DNS.503 = registry.npmjs.org
 DNS.504 = repo1.maven.org
+DNS.505 = registry.yarnpkg.com
